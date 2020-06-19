@@ -2,7 +2,7 @@
 
 ## /exercises/03-comparing-and-asserting/exercises 
 
-> 6/19/2020, 12:18:13 AM 
+> 6/19/2020, 12:20:15 AM 
 
 [../README.md](../README.md)
 
