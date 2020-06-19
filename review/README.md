@@ -2,7 +2,7 @@
 
 ## /exercises 
 
-> 6/19/2020, 12:28:01 AM 
+> 6/19/2020, 12:31:32 AM 
 
 [../README.md](../README.md)
 
@@ -59,9 +59,9 @@
     - [/5-scope.js](./05-functions-101/0-examples/README.md#5-scopejs)  
     - [/6-test-cases.js](./05-functions-101/0-examples/README.md#6-test-casesjs) - _pass_ 
   - [/1-scrambles](./05-functions-101/1-scrambles/README.md)
-    - [/1-write-expected.js](./05-functions-101/1-scrambles/README.md#1-write-expectedjs) - _incomplete_ 
-    - [/2-write-arguments.js](./05-functions-101/1-scrambles/README.md#2-write-argumentsjs) - _incomplete_ 
-    - [/3-write-function.js](./05-functions-101/1-scrambles/README.md#3-write-functionjs) - _fail_ 
+    - [/1-write-expected.js](./05-functions-101/1-scrambles/README.md#1-write-expectedjs) - _pass_ 
+    - [/2-write-arguments.js](./05-functions-101/1-scrambles/README.md#2-write-argumentsjs) - _pass_ 
+    - [/3-write-function.js](./05-functions-101/1-scrambles/README.md#3-write-functionjs) - _pass_ 
   - [/2-local-param-global](./05-functions-101/2-local-param-global/README.md)
     - [/0-example.js](./05-functions-101/2-local-param-global/README.md#0-examplejs)  
     - [/1-parameter-local.js](./05-functions-101/2-local-param-global/README.md#1-parameter-localjs) - _incomplete_ 
