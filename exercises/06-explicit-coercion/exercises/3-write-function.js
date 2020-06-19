@@ -5,8 +5,11 @@
    Number
    ===
 */
-function mystery(x, y) {
 
+function mystery(x, y) {
+  if (typeof x === 'number' && y === 'number') { throw new TypeError('x cannot be a string'); }
+  const number1 = Number(x)=== Number(y);
+  return number1;
 }
 
 // all of the test cases are correct
@@ -46,4 +49,3 @@ console.assert(_8_actual === _8_expect, 'Test 8');
 const _9_expect = false;
 const _9_actual = mystery(undefined, undefined);
 console.assert(_9_actual === _9_expect, 'Test 9');
-
